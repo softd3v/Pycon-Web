@@ -1,0 +1,15 @@
+### Web ###
+*.asp
+*.cer
+*.csr
+*.jsp
+*.js
+
+
+### Folders ###
+/fonts
+/images
+/js
+/vendor
+/resources
+
