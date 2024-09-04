@@ -3,13 +3,13 @@
 *.cer
 *.csr
 *.jsp
-*.js
+# *.js
 
 
 ### Folders ###
-/fonts
-/images
-/js
-/vendor
+# /fonts
+# /images
+# /js
+# /vendor
 /resources
 
